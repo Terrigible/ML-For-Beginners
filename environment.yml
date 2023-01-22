@@ -1,0 +1,10 @@
+name: ms-ml-for-beginners
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - ipykernel
+  - matplotlib
+  - pip
+  - python=3.10
+  - scikit-learn
